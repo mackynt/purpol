@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "mack#3540",
+        "name": "ik",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -8110684,
+        "background": -13758405,
+        "background_secondary": -14808538,
+        "mention_highlight": -4022574,
+        "active_channel": -4022574,
+        "statusbar": -10805130,
+        "input_background": -8110684
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
